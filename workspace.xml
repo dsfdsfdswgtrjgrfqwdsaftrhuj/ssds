@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cf59f6e6-d16a-4d7d-a9be-a1f79300139d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Front/public/back.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Front/public/delete.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Front/public/forward.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Front/src/backend/src/BaseUrl/BaseUrlFunction.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Front/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Front/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Front/src/app/app-module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Front/src/app/app-module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Front/src/app/app-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Front/src/app/app-routing.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Front/src/app/core/features/films/films-info-page/comments/comments.css" beforeDir="false" afterPath="$PROJECT_DIR$/Front/src/app/core/features/films/films-info-page/comments/comments.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Front/src/app/core/features/films/films-info-page/comments/comments.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/Front/src/app/core/features/films/films-info-page/comments/comments.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Front/src/app/core/features/films/films-info-page/comments/comments.html" beforeDir="false" afterPath="$PROJECT_DIR$/Front/src/app/core/features/films/films-info-page/comments/comments.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Front/src/app/core/features/films/films-info-page/comments/comments.scss" beforeDir="false" afterPath="$PROJECT_DIR$/Front/src/app/core/features/films/films-info-page/comments/comments.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Front/src/app/core/features/films/films-info-page/comments/comments.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Front/src/app/core/features/films/films-info-page/comments/comments.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Front/src/app/core/features/films/films-info-page/films-info-page.html" beforeDir="false" afterPath="$PROJECT_DIR$/Front/src/app/core/features/films/films-info-page/films-info-page.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Front/src/app/core/features/films/films-info-page/films-info-page.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Front/src/app/core/features/films/films-info-page/films-info-page.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Front/src/app/core/features/films/films-page/films-page.css" beforeDir="false" afterPath="$PROJECT_DIR$/Front/src/app/core/features/films/films-page/films-page.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Front/src/app/core/features/films/films-page/films-page.scss" beforeDir="false" afterPath="$PROJECT_DIR$/Front/src/app/core/features/films/films-page/films-page.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Front/src/app/core/features/films/watch/review/review.css" beforeDir="false" afterPath="$PROJECT_DIR$/Front/src/app/core/features/films/watch/review/review.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Front/src/app/core/features/films/watch/review/review.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/Front/src/app/core/features/films/watch/review/review.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Front/src/app/core/features/films/watch/review/review.html" beforeDir="false" afterPath="$PROJECT_DIR$/Front/src/app/core/features/films/watch/review/review.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Front/src/app/core/features/films/watch/review/review.scss" beforeDir="false" afterPath="$PROJECT_DIR$/Front/src/app/core/features/films/watch/review/review.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Front/src/app/core/features/films/watch/review/review.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Front/src/app/core/features/films/watch/review/review.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Front/src/app/core/features/films/watch/watch.css" beforeDir="false" afterPath="$PROJECT_DIR$/Front/src/app/core/features/films/watch/watch.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Front/src/app/core/features/films/watch/watch.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/Front/src/app/core/features/films/watch/watch.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Front/src/app/core/features/films/watch/watch.html" beforeDir="false" afterPath="$PROJECT_DIR$/Front/src/app/core/features/films/watch/watch.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Front/src/app/core/features/films/watch/watch.scss" beforeDir="false" afterPath="$PROJECT_DIR$/Front/src/app/core/features/films/watch/watch.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Front/src/app/core/features/films/watch/watch.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Front/src/app/core/features/films/watch/watch.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Front/src/app/core/features/home-page/home-page.css" beforeDir="false" afterPath="$PROJECT_DIR$/Front/src/app/core/features/home-page/home-page.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Front/src/app/core/features/home-page/home-page.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/Front/src/app/core/features/home-page/home-page.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Front/src/app/core/features/home-page/home-page.html" beforeDir="false" afterPath="$PROJECT_DIR$/Front/src/app/core/features/home-page/home-page.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Front/src/app/core/features/home-page/home-page.scss" beforeDir="false" afterPath="$PROJECT_DIR$/Front/src/app/core/features/home-page/home-page.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Front/src/app/core/features/home-page/home-page.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Front/src/app/core/features/home-page/home-page.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Front/src/app/core/guard/admin-guard.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Front/src/app/core/guard/admin-guard.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Front/src/app/core/guard/auth-guard-guard.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Front/src/app/core/guard/auth-guard-guard.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Front/src/app/core/guard/no-auth-guard-guard.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Front/src/app/core/guard/no-auth-guard-guard.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Front/src/app/core/models/interfaces.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Front/src/app/core/models/interfaces.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Front/src/app/core/services/auth/auth.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Front/src/app/core/services/auth/auth.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Front/src/app/core/services/comments/comment.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Front/src/app/core/services/comments/comment.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Front/src/app/core/services/path/path.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Front/src/app/core/services/path/path.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Front/src/app/core/services/review/review.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Front/src/app/core/services/review/review.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Front/src/backend/public/api.php" beforeDir="false" afterPath="$PROJECT_DIR$/Front/src/backend/public/api.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Front/src/backend/public/script.sql" beforeDir="false" afterPath="$PROJECT_DIR$/Front/src/backend/public/script.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Front/src/backend/src/Controller/CommentController.php" beforeDir="false" afterPath="$PROJECT_DIR$/Front/src/backend/src/Controller/CommentController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Front/src/backend/src/Controller/FilmsController.php" beforeDir="false" afterPath="$PROJECT_DIR$/Front/src/backend/src/Controller/FilmsController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Front/src/backend/src/Controller/ProfileController.php" beforeDir="false" afterPath="$PROJECT_DIR$/Front/src/backend/src/Controller/ProfileController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Front/src/backend/src/Controller/ReviewController.php" beforeDir="false" afterPath="$PROJECT_DIR$/Front/src/backend/src/Controller/ReviewController.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Front" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="$PROJECT_DIR$/../../../../php-8.4.5-Win32-vs17-x64/php.exe" />
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="309r6ZZcHA6mQiPW1ineh3wwr4M" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Docker.Database/Dockerfile.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.admin-page.html.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/komfig/Desktop/Learn_Docker&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Users\\komfig\\Desktop\\Learn_Docker\\Front\\node_modules\\typescript\\lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql_aurora&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\komfig\Desktop\Learn_Docker\Back\backend\public" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\komfig\Desktop\Learn_Docker\Back\Database" />
+      <recent name="C:\Users\komfig\Desktop\Learn_Docker\Back\backend" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Database/Dockerfile" type="docker-deploy" factoryName="dockerfile" temporary="true" server-name="Docker">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="sourceFilePath" value="Database/Dockerfile" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="docker-deploy" factoryName="dockerfile" temporary="true">
+      <deployment type="dockerfile">
+        <settings />
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Docker.Database/Dockerfile" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-09060db00ec0-JavaScript-PS-251.27812.24" />
+        <option value="bundled-php-predefined-a98d8de5180a-e5747d4f5a45-com.jetbrains.php.sharedIndexes-PS-251.27812.24" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cf59f6e6-d16a-4d7d-a9be-a1f79300139d" name="Changes" comment="" />
+      <created>1753050454720</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1753050454720</updated>
+      <workItem from="1753050456113" duration="548000" />
+      <workItem from="1753051362393" duration="145000" />
+      <workItem from="1753051608603" duration="548000" />
+      <workItem from="1753052199770" duration="6249000" />
+      <workItem from="1753062361900" duration="2882000" />
+      <workItem from="1753103249270" duration="14967000" />
+      <workItem from="1753127015757" duration="5935000" />
+      <workItem from="1753133144997" duration="24000" />
+      <workItem from="1753485677492" duration="1605000" />
+      <workItem from="1753490612773" duration="3136000" />
+      <workItem from="1753546487358" duration="821000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

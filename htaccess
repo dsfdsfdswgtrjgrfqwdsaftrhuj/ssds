@@ -1,0 +1,8 @@
+RewriteEngine On
+
+# Если запрашиваемый файл или папка существуют, вернуть их напрямую
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+
+# Иначе перенаправить всё на index.php (без изменения URL)
+RewriteRule ^ index.php [QSA,L]

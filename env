@@ -1,0 +1,8 @@
+APP_DEBUG=true
+
+DB_HOST=switchback.proxy.rlwy.net
+DB_NAME=railway
+DB_USER=root
+DB_PASS=nWyuNvSyMwjBjIumXNDjhWqvoXlKAzeM
+
+JWT_SECRET=super_secret_key
