@@ -4,5 +4,7 @@ DB_HOST=switchback.proxy.rlwy.net
 DB_NAME=railway
 DB_USER=root
 DB_PASS=nWyuNvSyMwjBjIumXNDjhWqvoXlKAzeM
+DB_PORT=1488
+
 
 JWT_SECRET=super_secret_key
